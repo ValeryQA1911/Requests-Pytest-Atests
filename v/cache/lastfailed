@@ -1,0 +1,3 @@
+{
+  "tests/test_pokemon.py::test_get_trainer_id": true
+}

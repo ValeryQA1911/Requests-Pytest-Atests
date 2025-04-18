@@ -1,0 +1,5 @@
+[
+  "tests/test_pokemon.py::test_get_trainer_id",
+  "tests/test_pokemon.py::test_get_trainer_name",
+  "tests/test_pokemon.py::test_get_trainers"
+]
