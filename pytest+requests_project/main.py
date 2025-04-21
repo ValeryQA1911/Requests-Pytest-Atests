@@ -2,10 +2,10 @@ import requests
 
 URL = 'https://api.pokemonbattle.ru'
 
-trainer_token = '4aec91b10e9a2a91cc56534c60c4ec82'
+trainer_token = 'Тут нужно вставить свой токен'
 
 HEADER = {'Content-Type' : 'application/json', 
-          'trainer_token' : '49bd5830941b58208b1ecda1f28e5376'}
+          'trainer_token' : 'Тут нужно вставить свой токен'}
 
 create_body = {
     "name": "Кот",
