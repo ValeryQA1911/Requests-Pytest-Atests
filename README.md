@@ -54,7 +54,7 @@ python3 -m pip install requests
 ``` markdown
 python3 -m pip install pytest
 ```
-5. Открыть файлы main.py и test_pokemon.py, в переменных trainer_token заглушку заменить на валидный токен (предоставлю по запросу)
+5. Открыть файлы main.py и test_pokemon.py, в переменных trainer_token заглушку "your_token" заменить на валидный токен (предоставлю по запросу)
 
 6. Нажать кнопку Run Python File.
 
@@ -69,5 +69,7 @@ python3 -m pip install pytest
 
 7. Перейти во вкладку Testing и запустить тесты кнопкой Run Tests
 
-Ожидаемый результат: отчет о прохождении тестов.
+Ожидаемый результат: 
+
+Отчет о прохождении тестов.
 ![image](https://github.com/ValeryQA1911/Requests-Pytest-Atests/blob/main/static/tests_compl.png)
