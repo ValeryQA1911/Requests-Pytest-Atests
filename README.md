@@ -22,7 +22,7 @@
 1. Автотесты написаны с применением PyTest
 2. Используется библиотека Requests
 
-![image](https://raw.githubusercontent.com/German-D/Python-Pytest-Requests/main/static/pytest-api.png)
+![image](https://github.com/ValeryQA1911/Requests-Pytest-Atests/blob/main/static/main_pok.png)
 
 ## Как запустить локально:
 1. Скачать проект
@@ -59,3 +59,4 @@ pytest tests/test_pokemon.py
 ```
 
 Ожидаемый результат: отчет о прохождении тестов.
+![image](https://github.com/ValeryQA1911/Requests-Pytest-Atests/blob/main/static/Done.png)
