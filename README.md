@@ -52,12 +52,20 @@ python3 -m pip install requests
 ``` markdown
 python3 -m pip install pytest
 ```
-5. Открыть файл main.py, в переменной trainer_token подставить валидный токен (предоставлю по запросу)
+5. Открыть файлы main.py и test_pokemon.py, в переменных trainer_token заглушку заменить на валидный токен (предоставлю по запросу)
 
-6. Запустить
-``` markdown
-pytest tests/test_pokemon.py
-```
+6. Нажать кнопку Run Python File.
+
+Ожидаемый результат:
+
+В терминале получаем сообщения:
+{"message":"Покемон создан","id":"XXXXXX"}
+{"message":"Информация о покемоне обновлена","id":"XXXXXX"}
+{"message":"Покемон пойман в покебол","id":"XXXXXX"}
+
+![image](https://github.com/ValeryQA1911/Requests-Pytest-Atests/blob/main/static/main_done.png)
+
+7. Перейти во вкладку Testing и запустить тесты кнопкой Run Tests
 
 Ожидаемый результат: отчет о прохождении тестов.
 ![image](https://github.com/ValeryQA1911/Requests-Pytest-Atests/blob/main/static/test_pok.png)
