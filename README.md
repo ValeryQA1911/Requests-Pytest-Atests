@@ -21,8 +21,9 @@
 
 1. Автотесты написаны с применением PyTest
 2. Используется библиотека Requests
-![image](https://github.com/ValeryQA1911/Requests-Pytest-Atests/blob/main/static/Done.png)
 ![image](https://github.com/ValeryQA1911/Requests-Pytest-Atests/blob/main/static/main_pok.png)
+![image](https://github.com/ValeryQA1911/Requests-Pytest-Atests/blob/main/static/main_py.png)
+
 
 ## Как запустить локально:
 1. Скачать проект
@@ -51,7 +52,7 @@ python3 -m pip install requests
 ``` markdown
 python3 -m pip install pytest
 ```
-5. Перейти во вкладку testing
+5. Открыть файл main.py, в переменной trainer_token подставить валидный токен (предоставлю по запросу)
 
 6. Запустить
 ``` markdown
