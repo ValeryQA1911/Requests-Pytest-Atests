@@ -1,4 +1,4 @@
-<h2>Автотесты на API проекта «Битва покемонов»</h2>
+c<h2>Автотесты на API проекта «Битва покемонов»</h2>
 
 > **Статус проекта:**
 > 🟢 Активный. Проект закрытый для POST запросов, но GET можно выполнять без токена: https://pokemonbattle.ru/
@@ -24,7 +24,7 @@
 
 ![image](https://github.com/ValeryQA1911/Requests-Pytest-Atests/blob/main/static/main_p.png)
 
-![image](https://github.com/ValeryQA1911/Requests-Pytest-Atests/blob/main/static/test_pok.png)
+![image](https://github.com/ValeryQA1911/Requests-Pytest-Atests/blob/main/static/main_d.pngc)
 
 
 ## Как запустить локально:
@@ -70,4 +70,4 @@ python3 -m pip install pytest
 7. Перейти во вкладку Testing и запустить тесты кнопкой Run Tests
 
 Ожидаемый результат: отчет о прохождении тестов.
-![image](https://github.com/ValeryQA1911/Requests-Pytest-Atests/blob/main/static/test_pok.png)
+![image](https://github.com/ValeryQA1911/Requests-Pytest-Atests/blob/main/static/tests_compl.png)
