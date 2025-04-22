@@ -21,7 +21,7 @@
 
 1. Автотесты написаны с применением PyTest
 2. Используется библиотека Requests
-
+![image](https://github.com/ValeryQA1911/Requests-Pytest-Atests/blob/main/static/Done.png)
 ![image](https://github.com/ValeryQA1911/Requests-Pytest-Atests/blob/main/static/main_pok.png)
 
 ## Как запустить локально:
