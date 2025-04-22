@@ -24,7 +24,7 @@
 
 ![image](https://github.com/ValeryQA1911/Requests-Pytest-Atests/blob/main/static/main_p.png)
 
-![image](https://github.com/ValeryQA1911/Requests-Pytest-Atests/blob/main/static/main_d.pngc)
+![image](https://github.com/ValeryQA1911/Requests-Pytest-Atests/blob/main/static/test_pok.png)
 
 
 ## Как запустить локально:
