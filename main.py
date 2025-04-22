@@ -4,7 +4,7 @@ trainer_token = 'your_token'
 
 URL = 'https://api.pokemonbattle.ru'
 HEADER = {'Content-Type' : 'application/json', 
-          'trainer_token' : 'your_token'}
+          'trainer_token' : trainer_token}
 
 create_body = {
     "name": "Кот",
