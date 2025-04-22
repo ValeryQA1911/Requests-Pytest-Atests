@@ -19,8 +19,8 @@
 
 ## Реализация:
 
-1. Автотесты написаны с применением PyTest
-2. Используется библиотека Requests
+1. Используется библиотека Requests
+2. Автотесты написаны с применением PyTest
 
 ![image](https://github.com/ValeryQA1911/Requests-Pytest-Atests/blob/main/static/main_p.png)
 
@@ -65,7 +65,7 @@ python3 -m pip install pytest
 {"message":"Информация о покемоне обновлена","id":"XXXXXX"}
 {"message":"Покемон пойман в покебол","id":"XXXXXX"}
 
-![image](https://github.com/ValeryQA1911/Requests-Pytest-Atests/blob/main/static/main_done.png)
+![image](https://github.com/ValeryQA1911/Requests-Pytest-Atests/blob/main/static/main_d.png)
 
 7. Перейти во вкладку Testing и запустить тесты кнопкой Run Tests
 
